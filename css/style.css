@@ -86,7 +86,7 @@ color: #ffffff;
 
 .button {
     cursor: pointer;
-    background-color: #ffffff ;
+    background-color: #F5F4FA ;
     color: #181212;   
 }
 
@@ -169,6 +169,9 @@ color: #212121;
 
 /* Фото_Чем_Занимается_фирма */
 
+.our-team {
+    background-color: #F5F4FA;
+}
 
 .our-team-title {
     font-weight: bold;
@@ -241,6 +244,7 @@ color: #ffffff;
     line-height: 171%;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
     }
 
 .address > p {
@@ -248,4 +252,5 @@ font-size: 14px;
 line-height: 171%;
 letter-spacing: 0.03em;
 color: #FFFFFF;
+font-style: normal;
 }
